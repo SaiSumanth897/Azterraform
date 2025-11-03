@@ -1,0 +1,2 @@
+Deploy the code to Azure function
+check how can we encorporate  three different functions in Single fucntion App
